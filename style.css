@@ -1,0 +1,35 @@
+
+body {
+    background-color: darkslateblue;
+    background-image:url('stolen-firework-gif.gif'); 
+    background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: center;
+    background-position-y:center;
+}
+
+
+.neon {
+    color: #fff;
+    text-shadow:
+      0 0 5px #fff,
+      0 0 10px #fff,
+      0 0 20px #fff,
+      0 0 40px #0ff,
+      0 0 80px #0ff,
+      0 0 90px #0ff,
+      0 0 100px #0ff,
+      0 0 150px #0ff;
+  }
+.boxedred {
+    margin-top: 20%;
+    border-radius: 25px;
+    width: auto;
+    padding: 2px;
+    border: 3px solid #03A062 ;
+    }
+span {
+    text-align: center;
+    font-size:300%
+}
+
